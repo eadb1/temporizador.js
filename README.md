@@ -1,4 +1,4 @@
-# Aula 47 - Projeto (aula47)
+# Temporizador
 
 Descrição
 --------
@@ -59,3 +59,4 @@ Uso pessoal / educacional. Adapte conforme necessário.
 Contatos / Créditos
 -------------------
 Projeto criado como material didático para a Aula 47 do curso.
+
