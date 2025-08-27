@@ -15,7 +15,6 @@ Fornecer um exemplo prático de manipulação de tempo em JavaScript, eventos de
 Estrutura de arquivos
 ---------------------
 ```
-aula47/
   Index.html
   assets/
     css/
@@ -58,5 +57,6 @@ Uso pessoal / educacional. Adapte conforme necessário.
 
 Contatos / Créditos
 -------------------
-Projeto criado como material didático para a Aula 47 do curso.
+Projeto criado como material didático.
+
 
