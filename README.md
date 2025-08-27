@@ -23,27 +23,6 @@ Estrutura de arquivos
       main.js
 ```
 
-Como executar
--------------
-Opções para abrir o projeto localmente:
-
-1) Abrir diretamente no navegador
-- Abra `Index.html` com duplo clique no Explorador de Arquivos ou arraste para o navegador.
-
-2) Servidor local simples (recomendado para evitar problemas de CORS e testar recursos locais)
-- Usando Python (se instalado):
-
-```powershell
-python -m http.server 8000
-```
-Acesse: http://localhost:8000/
-
-- Usando Node (se tiver npm instalado):
-
-```powershell
-npx http-server . -p 8000
-```
-
 Uso
 ---
 - Botão Iniciar: começa a contar os segundos.
@@ -57,6 +36,7 @@ Uso pessoal / educacional. Adapte conforme necessário.
 Contatos / Créditos
 -------------------
 Projeto criado como material didático.
+
 
 
 
