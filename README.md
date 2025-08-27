@@ -19,7 +19,6 @@ Estrutura de arquivos
   assets/
     css/
       style.css
-    img/
     js/
       main.js
 ```
@@ -58,5 +57,6 @@ Uso pessoal / educacional. Adapte conforme necessário.
 Contatos / Créditos
 -------------------
 Projeto criado como material didático.
+
 
 
